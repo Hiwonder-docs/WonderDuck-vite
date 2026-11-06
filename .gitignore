@@ -1,6 +1,7 @@
 node_modules/
 /docs/
-/scripts/
+/scripts/*
+!/scripts/stage_main_site.mjs
 /.github/
 *.log
 .DS_Store
